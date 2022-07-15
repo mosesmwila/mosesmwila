@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-- 💬 Interested In... Node.js, React.js, WordPress, Flutter, Next.js and TypeScript
+- 💬 I'm Interested In... Node.js, React.js, WordPress, Flutter, Next.js and TypeScript
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a> and <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
 - 👯 I’m looking to collaborate on JavaScript and Flutter.
