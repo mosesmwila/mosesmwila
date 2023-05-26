@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-- 💬 I'm Interested In... JavaScript (Node.js, React.js),PHP (Laravel) And Flutter
+- 💬 I'm Interested In... JavaScript (Node.js, React.js),PHP (Laravel, WordPress) And Flutter
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
 - 👯 I’m looking to collaborate on JavaScript and Flutter.
