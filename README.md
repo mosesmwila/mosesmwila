@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-<p align='center'><H3 align='center'> I'm software developer based in Ndola, Zambia. I love building interactive and functional web/mobile applications.</H3> </p>
+<p align='center'><H3 align='center'> I love building interactive and functional web/mobile applications.</H3> </p>
 
 - 💬 I'm Interested In... JavaScript (Node.js, React.js),PHP (Laravel, WordPress) And Flutter
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
@@ -13,7 +13,11 @@
 	<a href="https://twitter.com/imosesmwila" target="_blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 
 </p>
-
+&nbsp;&nbsp;
+<p align='center'>
+<a href="mailto:moses@zykarsolutions.com">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 
 <!--
