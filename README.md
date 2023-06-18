@@ -2,7 +2,7 @@
 
 <p align='center'><H3 align='center'> I love building interactive and functional web/mobile applications.</H3> </p>
 
-- 💬 I'm Interested In... JavaScript (Node.js, React.js),PHP (Laravel, WordPress) And Flutter
+- 💬 I'm Interested In... PHP (Laravel, WordPress),JavaScript (Node.js, React.js , Next.js & Vue.js), And Dart & Flutter
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
 - 👯 I’m looking to collaborate on JavaScript and Flutter.
