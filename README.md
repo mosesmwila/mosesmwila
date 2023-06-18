@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Moses Mwila
 
+<p align='center'><H3 align='center'> I'm software developer based in Ndola, Zambia. I love building interactive and functional web/mobile applications.</H3> </p>
+
 - 💬 I'm Interested In... JavaScript (Node.js, React.js),PHP (Laravel, WordPress) And Flutter
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
