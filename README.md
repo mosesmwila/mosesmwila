@@ -5,7 +5,7 @@
 - 💬 I'm Interested In... PHP (Laravel, WordPress),JavaScript (Node.js, React.js , Next.js & Vue.js), And Dart & Flutter
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
-- 👯 I’m looking to collaborate on JavaScript and Flutter.
+- 👯 I’m looking to collaborate on PHP and Flutter.
 - 📫 How to reach me: 
 
 <p align="center">
