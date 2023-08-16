@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
 - 👯 I’m looking to collaborate on Laravel.
-- 🤝 I’m looking for help with Flutter 
+- 🤝 I’m looking for help with Flutter.
 - 📫 How to reach me: 
 
 <p align="center">
