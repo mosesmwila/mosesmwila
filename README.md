@@ -67,13 +67,6 @@
 
 ***
 
--  🔭 I’m currently building backend in Java.
-
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
-
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
-
--  😄 Pronoun
 <!--
 **MosesMwila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
