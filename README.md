@@ -19,7 +19,7 @@
 ---
 
 🛠 <b> Tech Stack & Tools </b>
- A few things I've picked up along my learning journey
+ A few things I've picked up along my learning journey : <br><br>
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
