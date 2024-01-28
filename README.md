@@ -38,6 +38,7 @@
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-35495E?style=flat&logo=git)&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-35495E?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 
 ---
 
