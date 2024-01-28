@@ -30,7 +30,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
-
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp;
+![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
+<img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 
 ---
 
