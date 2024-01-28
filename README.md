@@ -35,6 +35,9 @@
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
 <img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
+![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
+<img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 
 ---
 
