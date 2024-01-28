@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
-<img src="https://img.shields.io/badge/-MySQL-35495E?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+
 
 ---
 
@@ -57,7 +57,7 @@
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
   ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+  <img src="https://img.shields.io/badge/-MySQL-35495E?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
@@ -71,7 +71,24 @@
 **MosesMwila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp;
+![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)&nbsp;
+<img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
+![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
+<img src="https://img.shields.io/badge/-MySQL-35495E?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
