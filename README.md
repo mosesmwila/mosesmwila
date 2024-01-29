@@ -49,7 +49,6 @@
   ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-***
 
 <!--
 **MosesMwila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
