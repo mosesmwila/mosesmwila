@@ -34,8 +34,9 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
   
 - Frontend & Design: &nbsp;
+ ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
+ ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
- ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/Wordpress%20-%231572B6.svg?&style=flat-square&logo=wordpress&logoColor=white"/>&nbsp;
 
@@ -84,5 +85,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 🤝 I’m looking for help with Flutter.
 - ⚡ Fun fact: ...
-- ![JSON](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)&nbsp;
 -->
