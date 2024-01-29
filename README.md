@@ -18,7 +18,6 @@
 🛠 <b> Tech Stack & Tools </b>
 
  A few things I've picked up along my learning journey : <br><br>
-
 - Languages: &nbsp;
   ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
