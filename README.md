@@ -1,10 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-<p align='center'><h3 align='center'> I Love Building Interactive and Functional Web/Mobile Applications.</h3> </p>
-
-- 💬 I'm Interested In... Laravel, WordPress,React.js & Vue.js , Tailwind , Dart & Flutter
-- 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
-- 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
+- 💬 I Love Building Interactive and Functional Web/Mobile Applications.
 - 👯 I’m looking to collaborate on Laravel.
 - 📫 How to reach me: 
 
