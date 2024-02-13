@@ -23,7 +23,7 @@
   ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+
   
 - Frameworks: &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
@@ -56,6 +56,7 @@
 
 Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
