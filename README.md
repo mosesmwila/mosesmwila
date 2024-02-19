@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-<p>I Love Building Interactive and Functional Web/Mobile Applications.</p>
+<p>I Like Building Interactive and Functional Web/Mobile Applications.</p>
 
 - 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
 - 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
