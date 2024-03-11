@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Moses Mwila
 
-<p>I Like Building Interactive and Functional Web/Mobile Applications.</p>
-
-- 🔭 I’m currently working on ... <a href="https://www.muafrica.com/" target="_blank">MuAfrica</a>
-- 🌱 I’m currently learning <a href="https://flutter.dev/" target="_blank">Flutter</a>
+- 🔭 I Like Building Interactive and Functional Web/Mobile Applications.</a>
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: 
 
 <p align="center">
@@ -29,6 +27,7 @@
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-square&logo=react&logoColor=61DAFB"/>
   
 - Frontend & Design: &nbsp;
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
