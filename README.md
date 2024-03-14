@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Moses Mwila
 
-- 🔭 I Like Building Interactive and Functional Web/Mobile Applications.</a>
+- 🔭 I Like Building Interactive and Functional Web/Mobile Applications.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me: 
 
