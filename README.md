@@ -27,7 +27,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
+
 
   
 - Frontend & Design: &nbsp;
@@ -73,6 +73,7 @@ Here are some ideas to get you started:
 ![Php](https://img.shields.io/badge/-php-394989?style=flat-square&logo=php)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-red?style=flat-square&logo=postman)&nbsp;
 <img src="https://img.shields.io/badge/-MySQL-35495E?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>&nbsp;
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
