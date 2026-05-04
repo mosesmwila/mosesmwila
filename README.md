@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Moses Mwila
 
 - 🔭 I Like Building Interactive and Functional Web/Mobile Applications.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning AdonisJs
 - 📫 How to reach me: 
 
 <p align="center">
