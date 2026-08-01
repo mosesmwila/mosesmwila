@@ -39,7 +39,7 @@ I'm currently building products through Zykar Solutions, with a focus on softwar
 
 | Project | What it is | Role |
 |---------|------------|------|
-| **SealPath** | Courier & logistics management platform with shipment tracking, fleet management, REST APIs and React Native mobile apps. | Founder • Software Architect • Full-Stack Developer |
+| **SealPath** | Courier & logistics management platform with shipment tracking, fleet management, REST APIs and React Native mobile apps. | Software Architect • Full-Stack Developer |
 | **Zykar ERP** | Multi-tenant ERP platform for SMEs featuring CRM, inventory, quotations, finance, HR and procurement. | Founder • Lead Developer |
 | **Zykar Sites** | Website, hosting and domain management platform with billing, SSL automation and Cloudflare integration. | Founder • Product Architect |
 | **Client Solutions** | Custom software, websites and automation systems delivered for engineering, retail and logistics companies across Zambia. | Full-Stack Developer |
