@@ -31,50 +31,18 @@ I'm a software engineer from Zambia focused on building scalable web and mobile 
 
 My work centers around enterprise software, logistics technology, cloud infrastructure, and AI-powered automation.
 
-I'm currently building products through **Zykar Solutions**, with a focus on software designed for African businesses.
+I'm currently building products through Zykar Solutions, with a focus on software designed for African businesses.
 
 ---
 
-# 💼 Current Projects
+## 📦 Selected Work
 
-### 🚚 SealPath
-
-Courier & Logistics Management Platform
-
-- Shipment Tracking
-- Driver Management
-- SMS Notifications
-- REST API
-- React Native Mobile App
-
----
-
-### 🏢 Zykar ERP
-
-A modern ERP platform for SMEs.
-
-Modules include:
-
-- CRM
-- Inventory
-- Accounting
-- Quotations
-- Procurement
-- HR
-- Reporting
-
----
-
-### 🌐 Zykar Sites
-
-Website & Hosting Management Platform
-
-- Domain Management
-- SSL Automation
-- Hosting
-- Billing
-- Cloudflare Integration
-
+| Project | What it is | Role |
+|---------|------------|------|
+| **SealPath** | Courier & logistics management platform with shipment tracking, fleet management, REST APIs and React Native mobile apps. | Founder • Software Architect • Full-Stack Developer |
+| **Zykar ERP** | Multi-tenant ERP platform for SMEs featuring CRM, inventory, quotations, finance, HR and procurement. | Founder • Lead Developer |
+| **Zykar Sites** | Website, hosting and domain management platform with billing, SSL automation and Cloudflare integration. | Founder • Product Architect |
+| **Client Solutions** | Custom software, websites and automation systems delivered for engineering, retail and logistics companies across Zambia. | Full-Stack Developer |
 ---
 
 # 🛠 Tech Stack
@@ -94,19 +62,6 @@ Website & Hosting Management Platform
 - React Native
 - System Design
 - Scalable SaaS Architecture
-
----
-
-# 📊 GitHub Stats
-
-(Add GitHub Readme Stats)
-
-(Add Contribution Streak)
-
-(Add Activity Graph)
-
-(Add Top Languages)
-
 ---
 
 # 🤝 Let's Connect
