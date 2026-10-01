@@ -93,7 +93,7 @@ I'm always interested in collaborating on exciting software projects, open-sourc
 
 🌍 **[Zykar Solutions](https://zykarsolutions.com)**
 
-🚀 **[Zykar Africa](https://zykar.africa)**
+🚀 **[Zykar](https://zykar.africa)**
 
 🌍 **[Hello54](https://hello54.com)**
 
