@@ -97,7 +97,5 @@ I'm always interested in collaborating on exciting software projects, open-sourc
 
 🌍 **[Hello54](https://hello54.com)**
 
-💻 **[GitHub](https://github.com/mosesmwila)**
-
 🔗 **[LinkedIn](https://www.linkedin.com/in/imosesmwila/)**
 
