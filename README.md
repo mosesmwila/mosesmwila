@@ -84,6 +84,20 @@ I enjoy working across the entire product lifecycle — from architecture and ba
 
 ---
 
+
 # 🤝 Let's Connect
 
-I'm interested in building useful technology, collaborating on ambitious softwar
+I'm always interested in collaborating on exciting software projects, open-source initiatives, and innovative solutions that create real-world impact.
+
+📧 **[moses@zykarsolutions.com](mailto:moses@zykarsolutions.com)**
+
+🌍 **[Zykar Solutions](https://zykarsolutions.com)**
+
+🚀 **[Zykar Africa](https://zykar.africa)**
+
+🌍 **[Hello54](https://hello54.com)**
+
+💻 **[GitHub](https://github.com/mosesmwila)**
+
+🔗 **[LinkedIn](https://www.linkedin.com/in/imosesmwila/)**
+
