@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Moses Mwila 👋</h1>
 
 <h3 align="center">
-Software Engineer • Founder of Zykar Solutions 🇿🇲
+Software Engineer • Founder at Zykar Solutions 🇿🇲
 </h3>
 
 <p align="center">
-Building software that powers African businesses through logistics, ERP, cloud infrastructure, and AI.
+Building software, infrastructure, and digital products for African businesses.
 </p>
 
 <p align="center">
@@ -27,22 +27,39 @@ Building software that powers African businesses through logistics, ERP, cloud i
 
 # 🚀 About Me
 
-I'm a software engineer from Zambia focused on building scalable web and mobile applications that solve real business problems.
+I'm a software engineer and entrepreneur from Zambia focused on building scalable software that solves real-world business problems.
 
-My work centers around enterprise software, logistics technology, cloud infrastructure, and AI-powered automation.
+My work spans **enterprise software, logistics technology, cloud infrastructure, SaaS platforms, automation, and AI**.
 
-I'm currently building products through Zykar Solutions, with a focus on software designed for African businesses.
+Through **Zykar Solutions**, I build and operate digital products designed to help African businesses manage, automate, and grow their operations.
+
+I enjoy working across the entire product lifecycle — from architecture and backend systems to APIs, infrastructure, user experiences, and deployment.
 
 ---
 
-## 📦 Selected Work
+# 📦 Selected Work
 
-| Project | What it is | Role |
-|---------|------------|------|
-| **SealPath** | Courier & logistics management platform with shipment tracking, fleet management, REST APIs and React Native mobile apps. | Software Architect • Full-Stack Developer |
-| **Zykar ERP** | Multi-tenant ERP platform for SMEs featuring CRM, inventory, quotations, finance, HR and procurement. | Founder • Lead Developer |
-| **Zykar Sites** | Website, hosting and domain management platform with billing, SSL automation and Cloudflare integration. | Founder • Product Architect |
-| **Client Solutions** | Custom software, websites and automation systems delivered for engineering, retail and logistics companies across Zambia. | Full-Stack Developer |
+| Project                                  | What it is                                                                                                                                                             | Role                                         |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| **[Zykar Africa](https://zykar.africa)** | Unified business platform bringing together business management, invoicing, payments, hosting, domains, email, and other digital business services into one ecosystem. | Founder • Product Architect • Lead Developer |
+| **[Hello54](https://hello54.com)**       | Digital product focused on building practical technology solutions for modern businesses and users.                                                                    | Founder • Software Engineer                  |
+| **SealPath**                             | Courier and logistics management platform with shipment tracking, fleet management, REST APIs, and React Native mobile applications.                                   | Software Architect • Full-Stack Developer    |
+| **Client Solutions**                     | Custom software, websites, automation systems, and digital infrastructure delivered for businesses across Zambia.                                                      | Full-Stack Developer                         |
+
+---
+
+# 🏗 What I Build
+
+* Multi-tenant SaaS platforms
+* Business & ERP systems
+* Logistics & fleet management software
+* Payment and financial integrations
+* REST APIs & backend systems
+* Cloud infrastructure & deployment systems
+* Hosting & domain management platforms
+* Business automation
+* AI-powered applications
+
 ---
 
 # 🛠 Tech Stack
@@ -57,17 +74,16 @@ I'm currently building products through Zykar Solutions, with a focus on softwar
 
 # 🌱 Currently Exploring
 
-- Native iOS Development
-- AI Integrations
-- React Native
-- System Design
-- Scalable SaaS Architecture
+* AI-powered software development
+* Native iOS development
+* React Native
+* Distributed & scalable systems
+* SaaS architecture
+* Cloud infrastructure
+* Developer tooling & automation
+
 ---
 
 # 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting software projects, open-source initiatives, and innovative solutions that create real-world impact.
-
-📧 moses@zykarsolutions.com
-
-🌍 https://zykarsolutions.com
+I'm interested in building useful technology, collaborating on ambitious softwar
