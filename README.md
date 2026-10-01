@@ -41,9 +41,9 @@ I enjoy working across the entire product lifecycle — from architecture and ba
 
 | Project                                  | What it is                                                                                                                                                             | Role                                         |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| **[Zykar Africa](https://zykar.africa)** | Unified business platform bringing together business management, invoicing, payments, hosting, domains, email, and other digital business services into one ecosystem. | Founder • Product Architect • Lead Developer |
-| **[Hello54](https://hello54.com)**       | Digital product focused on building practical technology solutions for modern businesses and users.                                                                    | Founder • Software Engineer                  |
-| **SealPath**                             | Courier and logistics management platform with shipment tracking, fleet management, REST APIs, and React Native mobile applications.                                   | Software Architect • Full-Stack Developer    |
+| **[Zykar](https://zykar.africa)** | Unified business platform bringing together business management, invoicing, payments, hosting, domains, email, and other digital business services into one ecosystem. | Founder • Product Architect • Lead Developer |
+| **[Hello54](https://hello54.com)**       | A digital platform for discovering, experiencing, and celebrating African culture, identity, stories, places, and people — a pivot and evolution of the original MuAfrica project.                                                                 | Founder • Software Engineer                  |
+| **[SealPath](https://sealpath.co.zm)**                             | Courier and logistics management platform with shipment tracking, fleet management, REST APIs, and React Native mobile applications.                                   | Software Architect • Full-Stack Developer    |
 | **Client Solutions**                     | Custom software, websites, automation systems, and digital infrastructure delivered for businesses across Zambia.                                                      | Full-Stack Developer                         |
 
 ---
