@@ -29,9 +29,9 @@ Building software, infrastructure, and digital products for African businesses.
 
 I'm a software engineer and entrepreneur from Zambia focused on building scalable software that solves real-world business problems.
 
-My work spans **enterprise software, logistics technology, cloud infrastructure, SaaS platforms, automation, and AI**.
+My work spans enterprise software, logistics technology, cloud infrastructure, SaaS platforms, automation, and AI.
 
-Through **Zykar Solutions**, I build and operate digital products designed to help African businesses manage, automate, and grow their operations.
+Through Zykar Solutions, I build and operate digital products designed to help African businesses manage, automate, and grow their operations.
 
 I enjoy working across the entire product lifecycle — from architecture and backend systems to APIs, infrastructure, user experiences, and deployment.
 
